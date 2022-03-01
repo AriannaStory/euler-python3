@@ -1,0 +1,5 @@
+# Anything with "-not-done" in the filename
+*-not-done*
+
+# Anything in the Local folder
+Local/*
