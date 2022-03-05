@@ -1,3 +1,5 @@
+# Technically, the solution to "Find the sum of the digits in the number 100!" should be 1, but I digress...
+
 from math import factorial
 
 def get_factorial_sum(number :int) -> int:
